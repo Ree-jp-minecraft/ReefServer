@@ -2,6 +2,10 @@ li {
     list-style: none;
 }
 
+.community li {
+    list-style: circle;
+}
+
 .footer-list a {
     color: snow;
 }
